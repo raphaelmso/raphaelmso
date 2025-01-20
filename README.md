@@ -1,10 +1,1 @@
-### Olá! 👋
-I'm **Raphael** an **Electronic Engineering** student from Brazil! 🇧🇷
-
-I like: 
-- 🦀 **Rust**,
-- 🐧 **Linux**,
-- ⌨️ **Neovim**,
-- 🏎️ **Racing (F1, WEC, IndyCar)**
-
-I'm currently working on **CLI** and **TUI** apps. 🖋️
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&duration=1500&pause=500&color=9AA5CE&multiline=true&repeat=false&width=425&height=75&lines=%3E+Ol%C3%A1%2C+I'm+Raphael+Oliveira!;%3E+I'm+an+Electronic+Engineering+student+from+Brazil!;%3E+I+like+Rust%2C+Neovim%2C+Linux+and+Formula+1" alt="Typing SVG" /></a>
